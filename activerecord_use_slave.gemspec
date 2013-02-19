@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'activerecord_use_slave'
-  s.version     = '0.0.3'
+  s.version     = '1.0.0'
   s.date        = '2012-10-07'
   s.summary     = "Switch the db connection for all ActiveRecord objects within a block"
   s.description = "Switch the db connection whenever required, allows a complete controller request to be served from a slave-db"
